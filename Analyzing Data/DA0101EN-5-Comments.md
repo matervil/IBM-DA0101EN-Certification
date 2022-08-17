@@ -1,0 +1,1 @@
+This jupyter notebook has some syntax problems when running locally, so I ran it and worked with it in a Cloud Service that IBM offers. For this reason the notebook has some parts executed but at the end it's empty.

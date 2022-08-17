@@ -1,20 +1,9 @@
-Course Overview
-Learn how to analyze data using Python. This course will take you from the basics of Python to exploring many different types of data. You will learn how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more!
+IBM Program: Python Data Science Professional Certificate
 
-Topics covered:
+Course #1: For Analyzing Data with Python Certificate (done)
 
-1) Importing Datasets
+Learn how to analyze data using Python. This course will take you from the basics of Python to exploring many different types of data. You will learn how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data.
 
-2) Cleaning the Data
+Course #2: Visualizing Data with Python (in progress)
 
-3) Data frame manipulation
-
-4) Summarizing the Data
-
-5) Building machine learning Regression models
-
-6) Building data pipelines
-
- Data Analysis with Python will be delivered through lectures, labs, and assignments. It includes the following parts:
-
-Data Analysis libraries: will learn to use Pandas, Numpy, and Scipy libraries to work with a sample dataset. We will introduce you to pandas, an open-source library, and we will use it to load, manipulate, analyze, and visualize cool datasets. Then we will introduce you to another open-source library, scikit-learn, and we will use some of its machine learning algorithms to build smart models and make cool predictions.
+Learn about different visualization techniques, and the uses of a wide variety of libraries available.
